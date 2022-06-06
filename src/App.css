@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cinzel&display=swap');
+
+body {
+  font-family: Cinzel;
+}
+
+button {
+  cursor: pointer;
+}
+
+header {
+  padding: 1em 3em;
+  font-size: 32px;
+  background: #002344;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  font-family: Abril Fatface;
+}
+
+img.logo {
+  width: 65px;
+  margin-right: 30px;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  margin: 10px;
+  background: #b4995b;
+  border-radius: 15px;
+}
+
+.container {
+  padding: .5em;
+  overflow: auto;
+}
+
+h2.title {
+  padding: 10px 20px;
+  background: #002344;
+  color: white;
+  margin: 0;
+  border-top: 2px solid #b4995b;
+  display: flex;
+  justify-content: space-between;
+}
+
+button.title-btn {
+  text-transform: uppercase;
+  background: #b4995b;
+  border: none;
+  color: #002344;
+  border-radius: 5px;
+  padding: 0 15px;
+  font-size: 11px;
+}
+
+form.menu-form {
+  padding: 0.5em;
+}
+
+.form-row {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.form-block label {
+  font-size: 80%;
+  margin-right: 10px;
+}
+
+.form-row button {
+  background: #002344;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  border-radius: 10px;
+}
+
+.btn-delete {
+  position: absolute;
+  right: 25px;
+}
+
+.btn-delete button {
+  position: relative;
+  top: -50px;
+  background: transparent;
+  border: none;
+  text-transform: uppercase;
+  color: #680000;
+}
+
+.switch-mode {
+  position: absolute;
+  right: 50px;
+}
+
+.switch-mode button {
+  background: transparent;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 10px 25px;
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+}

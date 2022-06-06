@@ -1,0 +1,74 @@
+[
+    {
+        "id": "001",
+        "name": "Cocktail di gamberi",
+        "courseType": "Antipasto",
+        "price": 9
+    },
+    {
+        "id": "002",
+        "name": "Insalata mista",
+        "courseType": "Antipasto",
+        "price": 6.5
+    },
+    {
+        "id": "003",
+        "name": "Tartare di Fassona",
+        "courseType": "Antipasto",
+        "price": 10
+    },
+    {
+        "id": "004",
+        "name": "Gnocchi alla sorrentina",
+        "courseType": "Primo",
+        "price": 11
+    },
+    {
+        "id": "005",
+        "name": "Spaghetti allo scoglio",
+        "courseType": "Primo",
+        "price": 16
+    },
+    {
+        "id": "006",
+        "name": "Lasagne",
+        "courseType": "Primo",
+        "price": 8.5
+    },
+    {
+        "id": "007",
+        "name": "Bistecca alla Fiorentina",
+        "courseType": "Secondo",
+        "price": 50
+    },
+    {
+        "id": "008",
+        "name": "Fritto Misto di mare",
+        "courseType": "Secondo",
+        "price": 18
+    },
+    {
+        "id": "009",
+        "name": "Tiramisù",
+        "courseType": "Dolce",
+        "price": 5
+    },
+    {
+        "id": "010",
+        "name": "Torta di mele",
+        "courseType": "Dolce",
+        "price": 4.5
+    },
+    {
+        "id": "011",
+        "name": "Sorbetto al limone",
+        "courseType": "Dolce",
+        "price": 3.5
+    },
+    {
+        "id": "012",
+        "name": "Macedonia di stagione",
+        "courseType": "Dolce",
+        "price": 3.5
+    }
+]
